@@ -1,0 +1,14 @@
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\bin\Debug\net7.0\Auth-Data.deps.json
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\bin\Debug\net7.0\Auth-Data.runtimeconfig.json
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\bin\Debug\net7.0\Auth-Data.dll
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\bin\Debug\net7.0\Auth-Data.pdb
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.csproj.AssemblyReference.cache
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.AssemblyInfoInputs.cache
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.AssemblyInfo.cs
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.csproj.CoreCompileInputs.cache
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.dll
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\refint\Auth-Data.dll
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.pdb
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\Auth-Data.genruntimeconfig.cache
+C:\Users\TheTo\source\MicroserviceShowcase\Auth-Data\obj\Debug\net7.0\ref\Auth-Data.dll
