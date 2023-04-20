@@ -15,24 +15,33 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Stage|Any CPU = Stage|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{8899AD49-18A3-403A-B790-EEEBAD33219A}.Stage|Any CPU.Build.0 = Stage|Any CPU
 		{91AC8953-35E3-49FC-8646-17011675E432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91AC8953-35E3-49FC-8646-17011675E432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91AC8953-35E3-49FC-8646-17011675E432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91AC8953-35E3-49FC-8646-17011675E432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AC8953-35E3-49FC-8646-17011675E432}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{91AC8953-35E3-49FC-8646-17011675E432}.Stage|Any CPU.Build.0 = Stage|Any CPU
 		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Stage|Any CPU.ActiveCfg = Stage|Any CPU
+		{BE4E4556-E703-40E3-9A6A-80DD2963F58C}.Stage|Any CPU.Build.0 = Stage|Any CPU
 		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Stage|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC824EE-0D36-4B5E-A615-77D5712DD59D}.Stage|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
